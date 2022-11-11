@@ -1,10 +1,30 @@
-@import url("https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700,800");
-
 * {
   box-sizing: border-box;
-  font-family: "Fira Sans", sans-serif;
 }
 
 body {
-  background-color: #e2e7f1;
+  background-color: rgb(31 34 40);
+  background-image: url(https://i.ibb.co/rp6zPYc/1111.png);
+  background-blend-mode: multiply;
+  background-position-x: center;
+  background-position-y: top;
+}
+
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(62, 69, 82);
+  border-radius: 20px;
+  border: 6px solid transparent;
+  background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(72, 89, 119);
 }

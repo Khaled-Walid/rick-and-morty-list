@@ -12,6 +12,6 @@ export const CharacterListStyles: Record<string, SxProps> = {
     color: 'rgb(197, 197, 197)',
     textAlign: 'center',
     fontWeight: '900',
-    fontSize: { xs: '3rem', sm: '6rem' },
+    fontSize: 'clamp(3rem, 7vw, 6rem)',
   },
 };
