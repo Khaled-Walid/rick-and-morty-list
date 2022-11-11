@@ -1,0 +1,1 @@
+export { CharactersListController } from './CharactersListController';

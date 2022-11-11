@@ -1,5 +1,7 @@
+import { CharactersListController } from './controllers/CharactersListController';
+
 function App(): JSX.Element {
-  return <div>Hi</div>;
+  return <CharactersListController />;
 }
 
 export default App;

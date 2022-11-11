@@ -1,4 +1,4 @@
-import { Characters } from '../controllers/CharactersListController/CharactersListController';
+import { Characters } from '../data/types';
 
 export const charactersMock: Characters = {
   characters: {

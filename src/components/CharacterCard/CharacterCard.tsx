@@ -5,7 +5,7 @@ import { CharacterCardSkeleton } from './CharacterCardSkeleton';
 import { CharacterCardStyles } from './styles';
 import { Box } from '@mui/material';
 
-interface CharacterCardData {
+export interface CharacterCardData {
   image: string;
   name: string;
   status: 'Alive' | 'Dead' | 'unknown';
