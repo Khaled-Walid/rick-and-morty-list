@@ -6,7 +6,7 @@ export const CharacterCardStyles: Record<string, SxProps> = {
     color: '#fff',
     width: { xs: '100%', sm: '580px' },
     display: 'flex',
-    height: { xs: '450px', sm: '220px' },
+    height: { xs: '480px', sm: '220px' },
     overflow: 'hidden',
     borderRadius: '0.5rem',
     flexDirection: { xs: 'column', sm: 'row' },
@@ -30,7 +30,7 @@ export const CharacterCardStyles: Record<string, SxProps> = {
   name: {
     fontWeight: '900',
     fontSize: '1.5rem',
-    marginBottom: '-0.5rem',
+    marginBottom: '-0.25rem',
     display: '-webkit-box',
     webkitLineClamp: '2',
     webkitBoxOrient: 'vertical',
@@ -39,7 +39,7 @@ export const CharacterCardStyles: Record<string, SxProps> = {
   },
   secText: {
     color: 'rgb(158, 158, 158)',
-    marginBottom: '-0.5rem',
+    lineHeight: '1rem',
   },
   statusDot: {
     display: 'inline-block',

@@ -6,7 +6,7 @@ Object {
   "baseElement": <body>
     <div>
       <div
-        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1veoebb-MuiPaper-root-MuiCard-root"
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1295pbh-MuiPaper-root-MuiCard-root"
       >
         <img
           alt="Character"
@@ -17,7 +17,7 @@ Object {
           class="MuiCardContent-root css-p5jh9q-MuiCardContent-root"
         >
           <h4
-            class="MuiTypography-root MuiTypography-h4 css-1kt8trn-MuiTypography-root"
+            class="MuiTypography-root MuiTypography-h4 css-cdjqzm-MuiTypography-root"
           >
             Rick Sanchez
           </h4>
@@ -31,7 +31,7 @@ Object {
             Alive | Human | Male
           </h6>
           <p
-            class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+            class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
           >
             Last known location:
           </p>
@@ -41,7 +41,7 @@ Object {
             Citadel of Ricks
           </p>
           <p
-            class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+            class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
           >
             First seen in:
           </p>
@@ -56,7 +56,7 @@ Object {
   </body>,
   "container": <div>
     <div
-      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1veoebb-MuiPaper-root-MuiCard-root"
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1295pbh-MuiPaper-root-MuiCard-root"
     >
       <img
         alt="Character"
@@ -67,7 +67,7 @@ Object {
         class="MuiCardContent-root css-p5jh9q-MuiCardContent-root"
       >
         <h4
-          class="MuiTypography-root MuiTypography-h4 css-1kt8trn-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-h4 css-cdjqzm-MuiTypography-root"
         >
           Rick Sanchez
         </h4>
@@ -81,7 +81,7 @@ Object {
           Alive | Human | Male
         </h6>
         <p
-          class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
         >
           Last known location:
         </p>
@@ -91,7 +91,7 @@ Object {
           Citadel of Ricks
         </p>
         <p
-          class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
         >
           First seen in:
         </p>
@@ -163,7 +163,7 @@ Object {
   "baseElement": <body>
     <div>
       <div
-        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1veoebb-MuiPaper-root-MuiCard-root"
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1295pbh-MuiPaper-root-MuiCard-root"
       >
         <img
           alt="Character"
@@ -174,7 +174,7 @@ Object {
           class="MuiCardContent-root css-p5jh9q-MuiCardContent-root"
         >
           <h4
-            class="MuiTypography-root MuiTypography-h4 css-1kt8trn-MuiTypography-root"
+            class="MuiTypography-root MuiTypography-h4 css-cdjqzm-MuiTypography-root"
           >
             Rick Sanchez
           </h4>
@@ -188,7 +188,7 @@ Object {
             Alive | Human | Male
           </h6>
           <p
-            class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+            class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
           >
             Last known location:
           </p>
@@ -198,7 +198,7 @@ Object {
             Citadel of Ricks
           </p>
           <p
-            class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+            class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
           >
             First seen in:
           </p>
@@ -213,7 +213,7 @@ Object {
   </body>,
   "container": <div>
     <div
-      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1veoebb-MuiPaper-root-MuiCard-root"
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1295pbh-MuiPaper-root-MuiCard-root"
     >
       <img
         alt="Character"
@@ -224,7 +224,7 @@ Object {
         class="MuiCardContent-root css-p5jh9q-MuiCardContent-root"
       >
         <h4
-          class="MuiTypography-root MuiTypography-h4 css-1kt8trn-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-h4 css-cdjqzm-MuiTypography-root"
         >
           Rick Sanchez
         </h4>
@@ -238,7 +238,7 @@ Object {
           Alive | Human | Male
         </h6>
         <p
-          class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
         >
           Last known location:
         </p>
@@ -248,7 +248,7 @@ Object {
           Citadel of Ricks
         </p>
         <p
-          class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
         >
           First seen in:
         </p>
@@ -320,7 +320,7 @@ Object {
   "baseElement": <body>
     <div>
       <div
-        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1veoebb-MuiPaper-root-MuiCard-root"
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1295pbh-MuiPaper-root-MuiCard-root"
       >
         <span
           class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-pulse css-elit98-MuiSkeleton-root"
@@ -329,7 +329,7 @@ Object {
           class="MuiCardContent-root css-p5jh9q-MuiCardContent-root"
         >
           <h4
-            class="MuiTypography-root MuiTypography-h4 css-1kt8trn-MuiTypography-root"
+            class="MuiTypography-root MuiTypography-h4 css-cdjqzm-MuiTypography-root"
             style="display: block;"
           >
             <span
@@ -344,7 +344,7 @@ Object {
             />
           </h6>
           <p
-            class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+            class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
           >
             <span
               class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
@@ -358,7 +358,7 @@ Object {
             />
           </p>
           <p
-            class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+            class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
           >
             <span
               class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
@@ -377,7 +377,7 @@ Object {
   </body>,
   "container": <div>
     <div
-      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1veoebb-MuiPaper-root-MuiCard-root"
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1295pbh-MuiPaper-root-MuiCard-root"
     >
       <span
         class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-pulse css-elit98-MuiSkeleton-root"
@@ -386,7 +386,7 @@ Object {
         class="MuiCardContent-root css-p5jh9q-MuiCardContent-root"
       >
         <h4
-          class="MuiTypography-root MuiTypography-h4 css-1kt8trn-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-h4 css-cdjqzm-MuiTypography-root"
           style="display: block;"
         >
           <span
@@ -401,7 +401,7 @@ Object {
           />
         </h6>
         <p
-          class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
         >
           <span
             class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
@@ -415,7 +415,7 @@ Object {
           />
         </p>
         <p
-          class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
         >
           <span
             class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
@@ -491,7 +491,7 @@ Object {
   "baseElement": <body>
     <div>
       <div
-        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1veoebb-MuiPaper-root-MuiCard-root"
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1295pbh-MuiPaper-root-MuiCard-root"
       >
         <span
           class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-pulse css-elit98-MuiSkeleton-root"
@@ -500,7 +500,7 @@ Object {
           class="MuiCardContent-root css-p5jh9q-MuiCardContent-root"
         >
           <h4
-            class="MuiTypography-root MuiTypography-h4 css-1kt8trn-MuiTypography-root"
+            class="MuiTypography-root MuiTypography-h4 css-cdjqzm-MuiTypography-root"
             style="display: block;"
           >
             <span
@@ -515,7 +515,7 @@ Object {
             />
           </h6>
           <p
-            class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+            class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
           >
             <span
               class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
@@ -529,7 +529,7 @@ Object {
             />
           </p>
           <p
-            class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+            class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
           >
             <span
               class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
@@ -548,7 +548,7 @@ Object {
   </body>,
   "container": <div>
     <div
-      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1veoebb-MuiPaper-root-MuiCard-root"
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1295pbh-MuiPaper-root-MuiCard-root"
     >
       <span
         class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-pulse css-elit98-MuiSkeleton-root"
@@ -557,7 +557,7 @@ Object {
         class="MuiCardContent-root css-p5jh9q-MuiCardContent-root"
       >
         <h4
-          class="MuiTypography-root MuiTypography-h4 css-1kt8trn-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-h4 css-cdjqzm-MuiTypography-root"
           style="display: block;"
         >
           <span
@@ -572,7 +572,7 @@ Object {
           />
         </h6>
         <p
-          class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
         >
           <span
             class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
@@ -586,7 +586,7 @@ Object {
           />
         </p>
         <p
-          class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
         >
           <span
             class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"

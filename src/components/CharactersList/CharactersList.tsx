@@ -31,8 +31,8 @@ export const CharactersList = ({
         data={data}
         SpinnerComponent={LoadingSpinner}
         listConfig={{
-          itemHeight: isSm ? 240 : 470,
-          windowHeight: 860,
+          itemHeight: isSm ? 240 : 500,
+          windowHeight: 780,
           numItems: data?.length ?? 0,
           windowWidth: isSm ? 600 : 300,
           loadMoreItems,

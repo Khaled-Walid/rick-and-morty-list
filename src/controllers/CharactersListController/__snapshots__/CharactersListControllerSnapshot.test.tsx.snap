@@ -15,17 +15,17 @@ Object {
         </h1>
         <div
           class="List"
-          style="position: relative; height: 860px; width: 300px; overflow: auto; will-change: transform; direction: ltr;"
+          style="position: relative; height: 780px; width: 300px; overflow: auto; will-change: transform; direction: ltr;"
         >
           <div
-            style="height: 1880px; width: 100%;"
+            style="height: 2000px; width: 100%;"
           >
             <div
               class="ListItem"
-              style="position: absolute; left: 0px; top: 0px; height: 470px; width: 100%;"
+              style="position: absolute; left: 0px; top: 0px; height: 500px; width: 100%;"
             >
               <div
-                class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1veoebb-MuiPaper-root-MuiCard-root"
+                class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1295pbh-MuiPaper-root-MuiCard-root"
               >
                 <img
                   alt="Character"
@@ -36,7 +36,7 @@ Object {
                   class="MuiCardContent-root css-p5jh9q-MuiCardContent-root"
                 >
                   <h4
-                    class="MuiTypography-root MuiTypography-h4 css-1kt8trn-MuiTypography-root"
+                    class="MuiTypography-root MuiTypography-h4 css-cdjqzm-MuiTypography-root"
                   >
                     Rick Sanchez
                   </h4>
@@ -50,7 +50,7 @@ Object {
                     Alive | Human | Male
                   </h6>
                   <p
-                    class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+                    class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
                   >
                     Last known location:
                   </p>
@@ -60,7 +60,7 @@ Object {
                     Citadel of Ricks
                   </p>
                   <p
-                    class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+                    class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
                   >
                     First seen in:
                   </p>
@@ -74,10 +74,10 @@ Object {
             </div>
             <div
               class="ListItem"
-              style="position: absolute; left: 0px; top: 470px; height: 470px; width: 100%;"
+              style="position: absolute; left: 0px; top: 500px; height: 500px; width: 100%;"
             >
               <div
-                class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1veoebb-MuiPaper-root-MuiCard-root"
+                class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1295pbh-MuiPaper-root-MuiCard-root"
               >
                 <img
                   alt="Character"
@@ -88,7 +88,7 @@ Object {
                   class="MuiCardContent-root css-p5jh9q-MuiCardContent-root"
                 >
                   <h4
-                    class="MuiTypography-root MuiTypography-h4 css-1kt8trn-MuiTypography-root"
+                    class="MuiTypography-root MuiTypography-h4 css-cdjqzm-MuiTypography-root"
                   >
                     Morty Smith
                   </h4>
@@ -102,7 +102,7 @@ Object {
                     Alive | Human | Male
                   </h6>
                   <p
-                    class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+                    class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
                   >
                     Last known location:
                   </p>
@@ -112,7 +112,7 @@ Object {
                     Citadel of Ricks
                   </p>
                   <p
-                    class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+                    class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
                   >
                     First seen in:
                   </p>
@@ -126,10 +126,10 @@ Object {
             </div>
             <div
               class="ListItem"
-              style="position: absolute; left: 0px; top: 940px; height: 470px; width: 100%;"
+              style="position: absolute; left: 0px; top: 1000px; height: 500px; width: 100%;"
             >
               <div
-                class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1veoebb-MuiPaper-root-MuiCard-root"
+                class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1295pbh-MuiPaper-root-MuiCard-root"
               >
                 <img
                   alt="Character"
@@ -140,7 +140,7 @@ Object {
                   class="MuiCardContent-root css-p5jh9q-MuiCardContent-root"
                 >
                   <h4
-                    class="MuiTypography-root MuiTypography-h4 css-1kt8trn-MuiTypography-root"
+                    class="MuiTypography-root MuiTypography-h4 css-cdjqzm-MuiTypography-root"
                   >
                     Summer Smith
                   </h4>
@@ -154,7 +154,7 @@ Object {
                     Alive | Human | Female
                   </h6>
                   <p
-                    class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+                    class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
                   >
                     Last known location:
                   </p>
@@ -164,7 +164,7 @@ Object {
                     Earth (Replacement Dimension)
                   </p>
                   <p
-                    class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+                    class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
                   >
                     First seen in:
                   </p>
@@ -178,10 +178,10 @@ Object {
             </div>
             <div
               class="ListItem"
-              style="position: absolute; left: 0px; top: 1410px; height: 470px; width: 100%;"
+              style="position: absolute; left: 0px; top: 1500px; height: 500px; width: 100%;"
             >
               <div
-                class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1veoebb-MuiPaper-root-MuiCard-root"
+                class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1295pbh-MuiPaper-root-MuiCard-root"
               >
                 <span
                   class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-pulse css-elit98-MuiSkeleton-root"
@@ -190,7 +190,7 @@ Object {
                   class="MuiCardContent-root css-p5jh9q-MuiCardContent-root"
                 >
                   <h4
-                    class="MuiTypography-root MuiTypography-h4 css-1kt8trn-MuiTypography-root"
+                    class="MuiTypography-root MuiTypography-h4 css-cdjqzm-MuiTypography-root"
                     style="display: block;"
                   >
                     <span
@@ -205,7 +205,7 @@ Object {
                     />
                   </h6>
                   <p
-                    class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+                    class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
                   >
                     <span
                       class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
@@ -219,7 +219,7 @@ Object {
                     />
                   </p>
                   <p
-                    class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+                    class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
                   >
                     <span
                       class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
@@ -251,17 +251,17 @@ Object {
       </h1>
       <div
         class="List"
-        style="position: relative; height: 860px; width: 300px; overflow: auto; will-change: transform; direction: ltr;"
+        style="position: relative; height: 780px; width: 300px; overflow: auto; will-change: transform; direction: ltr;"
       >
         <div
-          style="height: 1880px; width: 100%;"
+          style="height: 2000px; width: 100%;"
         >
           <div
             class="ListItem"
-            style="position: absolute; left: 0px; top: 0px; height: 470px; width: 100%;"
+            style="position: absolute; left: 0px; top: 0px; height: 500px; width: 100%;"
           >
             <div
-              class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1veoebb-MuiPaper-root-MuiCard-root"
+              class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1295pbh-MuiPaper-root-MuiCard-root"
             >
               <img
                 alt="Character"
@@ -272,7 +272,7 @@ Object {
                 class="MuiCardContent-root css-p5jh9q-MuiCardContent-root"
               >
                 <h4
-                  class="MuiTypography-root MuiTypography-h4 css-1kt8trn-MuiTypography-root"
+                  class="MuiTypography-root MuiTypography-h4 css-cdjqzm-MuiTypography-root"
                 >
                   Rick Sanchez
                 </h4>
@@ -286,7 +286,7 @@ Object {
                   Alive | Human | Male
                 </h6>
                 <p
-                  class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+                  class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
                 >
                   Last known location:
                 </p>
@@ -296,7 +296,7 @@ Object {
                   Citadel of Ricks
                 </p>
                 <p
-                  class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+                  class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
                 >
                   First seen in:
                 </p>
@@ -310,10 +310,10 @@ Object {
           </div>
           <div
             class="ListItem"
-            style="position: absolute; left: 0px; top: 470px; height: 470px; width: 100%;"
+            style="position: absolute; left: 0px; top: 500px; height: 500px; width: 100%;"
           >
             <div
-              class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1veoebb-MuiPaper-root-MuiCard-root"
+              class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1295pbh-MuiPaper-root-MuiCard-root"
             >
               <img
                 alt="Character"
@@ -324,7 +324,7 @@ Object {
                 class="MuiCardContent-root css-p5jh9q-MuiCardContent-root"
               >
                 <h4
-                  class="MuiTypography-root MuiTypography-h4 css-1kt8trn-MuiTypography-root"
+                  class="MuiTypography-root MuiTypography-h4 css-cdjqzm-MuiTypography-root"
                 >
                   Morty Smith
                 </h4>
@@ -338,7 +338,7 @@ Object {
                   Alive | Human | Male
                 </h6>
                 <p
-                  class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+                  class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
                 >
                   Last known location:
                 </p>
@@ -348,7 +348,7 @@ Object {
                   Citadel of Ricks
                 </p>
                 <p
-                  class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+                  class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
                 >
                   First seen in:
                 </p>
@@ -362,10 +362,10 @@ Object {
           </div>
           <div
             class="ListItem"
-            style="position: absolute; left: 0px; top: 940px; height: 470px; width: 100%;"
+            style="position: absolute; left: 0px; top: 1000px; height: 500px; width: 100%;"
           >
             <div
-              class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1veoebb-MuiPaper-root-MuiCard-root"
+              class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1295pbh-MuiPaper-root-MuiCard-root"
             >
               <img
                 alt="Character"
@@ -376,7 +376,7 @@ Object {
                 class="MuiCardContent-root css-p5jh9q-MuiCardContent-root"
               >
                 <h4
-                  class="MuiTypography-root MuiTypography-h4 css-1kt8trn-MuiTypography-root"
+                  class="MuiTypography-root MuiTypography-h4 css-cdjqzm-MuiTypography-root"
                 >
                   Summer Smith
                 </h4>
@@ -390,7 +390,7 @@ Object {
                   Alive | Human | Female
                 </h6>
                 <p
-                  class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+                  class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
                 >
                   Last known location:
                 </p>
@@ -400,7 +400,7 @@ Object {
                   Earth (Replacement Dimension)
                 </p>
                 <p
-                  class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+                  class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
                 >
                   First seen in:
                 </p>
@@ -414,10 +414,10 @@ Object {
           </div>
           <div
             class="ListItem"
-            style="position: absolute; left: 0px; top: 1410px; height: 470px; width: 100%;"
+            style="position: absolute; left: 0px; top: 1500px; height: 500px; width: 100%;"
           >
             <div
-              class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1veoebb-MuiPaper-root-MuiCard-root"
+              class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1295pbh-MuiPaper-root-MuiCard-root"
             >
               <span
                 class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-pulse css-elit98-MuiSkeleton-root"
@@ -426,7 +426,7 @@ Object {
                 class="MuiCardContent-root css-p5jh9q-MuiCardContent-root"
               >
                 <h4
-                  class="MuiTypography-root MuiTypography-h4 css-1kt8trn-MuiTypography-root"
+                  class="MuiTypography-root MuiTypography-h4 css-cdjqzm-MuiTypography-root"
                   style="display: block;"
                 >
                   <span
@@ -441,7 +441,7 @@ Object {
                   />
                 </h6>
                 <p
-                  class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+                  class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
                 >
                   <span
                     class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
@@ -455,7 +455,7 @@ Object {
                   />
                 </p>
                 <p
-                  class="MuiTypography-root MuiTypography-body1 css-h94hhy-MuiTypography-root"
+                  class="MuiTypography-root MuiTypography-body1 css-8b1rag-MuiTypography-root"
                 >
                   <span
                     class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
